@@ -11,6 +11,6 @@ Cette exploration doit permettre de réviser
 - [X] Markdown
 - [X] HTML
 - [X] JavaScript
-- []  Emmet
+- []  Emmett
 
 Mais également découvrir le fonctionnement de git.
